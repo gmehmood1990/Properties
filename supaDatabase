@@ -1,1 +1,4 @@
-
+spring.datasource.url=jdbc:postgresql://aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres
+spring.datasource.username=postgres.dlvfpurpooneracssidw
+spring.datasource.password=nfglas123#@!
+spring.datasource.driver-class-name=org.postgresql.Driver
